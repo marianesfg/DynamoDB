@@ -12,8 +12,8 @@ namespace DynamoDB
 {
     public class Program
     {
-        private const string accessKey = "AKIAV4PME4GXD7J6HVPV";
-        private const string secretKey = "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";
+        private const string accessKey = "";
+        private const string secretKey = "";
 
         public static void Main(string[] args)
         {
